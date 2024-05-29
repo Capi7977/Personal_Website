@@ -1,0 +1,49 @@
+body {
+  background-color: skyblue;
+}
+
+img {
+  width: 300px;
+  height: 200px;  
+}
+
+.backhead {
+  background-color: aqua;
+  border-radius: 1%;
+  flex-wrap: wrap;
+}
+
+.head {
+  font-size: 30px;
+  font-family: monospace;
+  background-color: aliceblue;
+  width: fit-content;
+  height: fit-content;
+}
+
+.head2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: monospace;
+  background-color: aliceblue;
+}
+
+.sub {
+  font-size: 20px;
+  font-family: monospace;
+  text-align: right;
+}
+
+.sub2 {
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.pharagraph2 {
+  border-radius: 1%;
+  background-color: aqua;
+  font-size: 17px;
+  font-family: sans-serif;
+  width: 90%;
+  height: 50%;
+}
