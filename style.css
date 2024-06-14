@@ -47,3 +47,16 @@ img {
   width: 90%;
   height: 50%;
 }
+
+form {
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  margin: 30px
+}
+
+input {
+  width: 100%;
+  height: 30px;
+  box-sizing: border-box;
+}
